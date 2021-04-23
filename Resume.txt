@@ -1,0 +1,39 @@
+1. First Name, Last Name:
+				Mikalai Kalodzka
+
+2. Contacts:	
+				E-mail: nickkolodko@gmail.com
+				Telegram: @k_mikalai
+				Phone: +375293350244
+				Skype: mikalai.kalodzka
+				LinkedIn: https://www.linkedin.com/in/mikalai-kalodzka-790278210/
+
+3. Summary:
+				My primary goal is to become Juniour Developer by the end of this year. I am interested in developing a 
+				necessary set of skills in order to achive my goal. My main interest direction is mobile application 
+				development. The reason why I am interested in this kind of development is simple: many times I have had
+				to look for some application that could make easier some certain aspect of my life. Unfortunately not
+				always I had a fortune to find exactly what I was looking for. Eventually an idea came to me that if I
+				not able to find what I need than I should do it myself. But first of all I have to learn how to realize
+				it.
+
+4. Skills:
+				Basics of Python, C and #C
+
+5. Code:
+				git@github.com:MikalaiKalodzka/Python_tasks.git				
+				git@github.com:MikalaiKalodzka/IT-Academy.git
+
+6. Education:			Master of Science, BNTU 2016, Power Engineering faculty
+				Academy of Postgraduate education 2015, referent-translator of scientific and technical literature in English
+
+				Udemy: Inroduction To Python Programming - Avinash Jain (EN-VD)	https://www.udemy.com/course/pythonforbeginnersintro/
+				Introduction to Python. Microsoft.com (EN)			https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
+				Python for Beginners. Microsoft Developer (EN-VD)		https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+				Google for Education. Python (EN)				https://developers.google.com/edu/python
+			
+
+7. English: 
+ 			
+				  
+				 	
